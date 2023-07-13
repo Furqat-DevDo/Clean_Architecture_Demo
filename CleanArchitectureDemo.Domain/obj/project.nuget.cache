@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/ORsHFXtoatUAenN0ocxfFxfdEcsI2Vb8tbrMqDwWH6aaOj9C8ODWSWmbE0X2xHgZQeZ1V/orcCoCJiPuWGCUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\furqa\\CleanArchitectureDemo\\CleanArchitectureDemo.Domain\\CleanArchitectureDemo.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\furqa\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\furqa\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\furqa\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
